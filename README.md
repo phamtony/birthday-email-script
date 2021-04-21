@@ -1,3 +1,4 @@
-# birthdayEmailScript
+# Birthday Email Scripts
 
-You can use this script with pythonanywhere, to run everyday and send emails to people as a reminder!
+Use this script and python-anywhere everyday. <br>
+It'll check and send emails to people on the day of their birthdays!
